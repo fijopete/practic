@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(176, 179, 178, 0.9);
+    background-image: url("/login/images/bgHome.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+.section{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* h1{
+ 
+    display: block;
+
+}
+
+button, a{
+    display: block;
+    color: brown;
+} */
+
+a{
+
+    text-decoration: none;
+}
